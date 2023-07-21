@@ -1,0 +1,67 @@
+.bannerBgImage{
+    height: 100vh;
+    background: url("/image/bannerimage.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+.bgpics{
+    background-image: url("/image/drop.jpeg");
+    background-repeat: no-repeat ;
+    background-size:cover;
+    background-position: fixed;
+    background-attachment: fixed;
+}
+
+
+.bannerText{
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.bannerTitle{
+    font-size: 4rem;
+}
+
+.bannerDesc{
+    font-size: 3rem;
+}
+
+
+.bIcon{
+    border: 2px solid yellowgreen;
+}
+
+
+.img-fluid:hover{
+    border: 2px solid yellow;
+}
+
+
+.card-img-top:hover{
+    border: 5px solid yellowgreen;
+}
+.card-img-top{
+    height: 60vh;
+}
+
+.num-img{
+    height: 50vh;
+}
+.num-img:hover{
+    border: 4px solid yellow;
+}
+
+
+.connect{
+    height: 40vh;
+}
+
+.body:hover{
+    border: 5px solid yellow;
+}
+

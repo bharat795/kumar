@@ -1,12 +1,12 @@
 .bannerBgImage{
     height: 100vh;
-    background: url("/image/bannerimage.jpg");
+    background: url("bannerimage.jpg");
     background-size: cover;
     position: relative;
 }
 
 .bgpics{
-    background-image: url("/image/drop.jpeg");
+    background-image: url("drop.jpeg");
     background-repeat: no-repeat ;
     background-size:cover;
     background-position: fixed;
